@@ -1,5 +1,5 @@
-import "src/App.css";
-import figmaIcon from "src/figma.png";
+import "../App.css";
+import figmaIcon from "../figma.png";
 
 function ReuseableNav() {
   return (
