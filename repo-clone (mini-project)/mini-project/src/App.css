@@ -1,0 +1,45 @@
+.nav {
+  font-family: 'poppins';
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  text-align: center;
+
+  background-color: rgb(224, 224, 224);
+}
+
+.nav-icon {
+  height: 34px;
+  width: 34px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  text-align: center;
+}
+
+p {
+  margin: auto;
+}
+
+button {
+  margin-top: 25px;
+}
+
+h3 {
+  margin: auto;
+}
+
+.umur-anda {
+  margin-bottom: 25px;
+}
