@@ -1,7 +1,6 @@
 import "./App.css";
-import figmaIcon from "./figma.png";
 import { useState } from "react";
-import ReuseableNav from "./components/reusable-nav";
+import ReuseableNav from "../src/components/reuseable-nav";
 
 function App() {
   const [count, setCount] = useState(16);
